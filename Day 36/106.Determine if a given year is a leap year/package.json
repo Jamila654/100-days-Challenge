@@ -1,0 +1,12 @@
+{
+  "name": "106.determine-if-a-given-year-is-a-leap-year",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
